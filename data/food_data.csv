@@ -1,0 +1,8 @@
+day,meal_type,prepared_qty,consumed_qty,weather,event,location,surplus_qty
+Monday,Lunch,100,80,Sunny,No,Meerut,20
+Tuesday,Dinner,120,95,Rainy,Yes,Delhi,25
+Wednesday,Breakfast,80,70,Sunny,No,Noida,10
+Thursday,Lunch,150,120,Cloudy,Yes,Ghaziabad,30
+Friday,Dinner,200,150,Sunny,Yes,Meerut,50
+Saturday,Lunch,180,140,Rainy,No,Delhi,40
+Sunday,Dinner,160,130,Cloudy,Yes,Noida,30
