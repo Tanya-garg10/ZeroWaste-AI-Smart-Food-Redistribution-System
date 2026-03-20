@@ -116,5 +116,3 @@ streamlit run app.py
 ## ⭐ Support
 
 **If you like this project, consider giving it a ⭐**
-bhi bana deta hoon — bas bolo 🔥
-```
